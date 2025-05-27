@@ -1,0 +1,48 @@
+Phishing Email Example – 
+ Fake Email Example
+Subject: Urgent Action Required: Your Account Will Be Locked
+From: Microsoft Support <support@m1crosoft-secure.com>
+
+Message:
+
+Dear Customer,
+
+We noticed some strange activity in your account.
+
+To keep it safe, we will lock it unless you verify who you are.
+
+Click the link below to confirm:
+
+👉 Verify Now
+
+If you don’t do this in 24 hours, you’ll lose access forever.
+
+Microsoft Security Team
+
+
+SUMMARY
+
+1. Strange Email Address
+It says it's from Microsoft, but the address is @m1crosoft-secure.com (they used a number “1” instead of the letter “i”).
+
+That’s a fake domain trying to look real.
+
+2. Weird Links
+The link says “Verify Now,” but if you hover over it (without clicking), it goes to a strange website — not a real Microsoft site.
+
+It’s a trick to steal your info.
+
+3. Scary Language
+It says your account will be locked in 24 hours.
+
+That’s meant to make you panic and act fast without thinking — a classic phishing move.
+
+4. Generic Greeting
+It says "Dear Customer" instead of using your name. Real companies usually know who you are.
+
+5. Grammar is Off
+The message sounds a little off — like “in your account” instead of “on your account.” That’s a clue it wasn’t written by professionals.
+
+6. Email Header Info (Advanced)
+If you check the behind-the-scenes info (called the header), you’ll see the email came from a weird server — not Microsoft.
+
